@@ -20,7 +20,7 @@ const Product = () => {
   };
 
   return (
-    <div id="product" className="pt-10 bg-white h-max overflow-x-hidden  items-center">
+    <div id="product" className="pt-10 bg-white overflow-x-hidden  items-center">
       <div className="text-center mb-4">
           <h2 className="text-4xl font-bold text-green-800 mb-2">Our Product</h2>
           
